@@ -1,5 +1,5 @@
 {
-  "name": "슈퍼로봇대전:-텍스트-&-차트-배틀",
+  "name": "super-robot-lite",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,7 +9,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@/App": "latest",
     "@google/genai": "^1.3.0",
     "react-dom": "^19.1.0",
     "react": "^19.1.0",
